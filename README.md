@@ -87,7 +87,7 @@ The engine operates across six layers:
 - **Story as Craft (McKee):** Every scene must turn on a value change. The gap between expectation and result is the engine of story.
 - **The Audience Contract (Snyder):** Every story makes a promise. Honor expectations enough to satisfy; violate them enough to surprise.
 
-The full framework is in [`storytelling_framework.md`](./storytelling_framework.md).
+The full framework is in [`storytelling_framework.md`](./storyteller_agent_system_prompt_v2.md).
 
 ---
 
