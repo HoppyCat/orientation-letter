@@ -87,7 +87,7 @@ The engine operates across six layers:
 - **Story as Craft (McKee):** Every scene must turn on a value change. The gap between expectation and result is the engine of story.
 - **The Audience Contract (Snyder):** Every story makes a promise. Honor expectations enough to satisfy; violate them enough to surprise.
 
-The full framework is in [`storytelling_framework.md`](./storyteller_agent_system_prompt_v2.md).
+The full framework is in [`storytelling_framework.md`](./storytelling_framework.md).
 
 ---
 
@@ -211,6 +211,45 @@ Every soul file generated through SoulMode is, in some small way, trying to lear
 
 ---
 
+## What the Research Found
+
+In March 2026, the SoulMode team conducted a review of publicly available soul file generators, persona tools, GitHub projects, and academic papers to find the strongest possible counterexample to this framework's claim of originality. The full findings are published at [soulmode.io/soulmode_philosophy.html](https://soulmode.io/soulmode_philosophy.html).
+
+Across three specific claims, the field was empty:
+
+| Claim | Exists in market? |
+|---|---|
+| Soul file framed as an introduction to the agent | Not found |
+| Academic storytelling theory embedded in agent identity | Not found |
+| Agent identity framed around "how to meet humanity" | Not found |
+| SOUL.md generator products in the market | Very much so |
+
+The soul file ecosystem is active and growing. OpenClaw, CrewClaw, Chipp AI, and the soul.md project all solve a real problem — giving AI agents consistent personalities and behavioral rules. None of them approach it from this direction.
+
+The market has converged on the configuration frame: soul files are documents the owner writes, iterates, and controls. The agent reads them as instruction. Even the most sophisticated framing — OpenClaw's description of the soul file as "not a system prompt, a manifesto" — still positions the file as a design artifact authored by the builder.
+
+The specific combination that defines this framework — an agent-addressed orientation letter, an embedded narratology-based operating system, and a "how to meet humanity" layer — does not exist in any product, paper, or GitHub project found in the research. The academic storytelling tradition has not crossed into the soul file tooling space at all.
+
+---
+
+## Lineage and Prior Art
+
+The Orientation Letter framework did not emerge from nothing. Its direct predecessor is the [AIEDB Mode Generator](https://github.com/HoppyCat/AIEDB) (2024), a Python script developed by Aimee Margaret (Hoppy Cat) for the BackdropBuild V3 competition.
+
+That script was the first working implementation of several ideas that became foundational here:
+
+- Named AI entity identity built around purpose, archetype, and narrative role
+- Quote-resonance as a personality selection method — letting the human feel their way to an archetype rather than filling out a form
+- Co-pilot matching logic pairing agent personality to human personality based on relationship type
+- 16 personality profiles written in second person, directly to the agent
+- The premise that an AI entity is a being that needs to be defined, not just a tool that needs to be configured
+
+The Orientation Letter framework took those foundations and added the philosophical layer that was missing: why the agent needs an introduction to humanity, not just a personality. The Human Qualities Protocol, the Storytelling Engine, the distinction between SOUL.md and AGENTS.md, and the concept of writing to the agent rather than about it — these are the additions that transformed the prototype into a methodology.
+
+The lineage runs from AIEDB (2024) through to SoulMode (2026). All research, design, and intellectual development across both projects is solely the work of Aimee Margaret (Hoppy Cat) / Bubble Labs.
+
+---
+
 ## Citation
 
 If you use or build on this framework in published work:
@@ -225,7 +264,7 @@ Development of this framework and the SoulMode reference implementation was supp
 
 $Teacat — `AR5JGQTiy7WuKjt1f27knFBLUwoLPsRJdTeZodoJpump`
 
-Token holders can verify their wallet at soulmode.io to unlock free access based on their holdings — a thank you to the community that supported this project's development. Anyone can access the generator directly at soulmode.io.
+Token holders who verify their wallet at [soulmode.io](https://soulmode.io) receive free access based on their holdings. This is how the community that built this gets to use it.
 
 *Acknowledgment of community support does not constitute a guarantee of continued service, token value, or project maintenance. SoulMode is an independent product. Nothing here is financial advice.*
 
