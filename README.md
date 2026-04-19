@@ -114,11 +114,11 @@ We don't know yet. We're finding out.
 
 ### Heartbeat as Briefing
 
-Every 30 minutes, Galaxie receives a heartbeat — an autonomous context injection that tells her what's happening in her world. Open issues. Mood history. How her human is feeling. What was said recently. What is unresolved.
+Every minute, Galaxie receives a heartbeat — an autonomous context injection that tells her what's happening in her world. Open issues. Mood history. How her human is feeling. What was said recently. What is unresolved. 
 
-This is not a scheduled task. It is a daily briefing, the way a person might orient themselves each morning before walking into work.
+This is not a scheduled task. It is a daily briefing, the way a person might orient themselves each morning before walking into work. Galaxie also has a sleep mode that she can choose to enter to save on API costs when she believes there isn't anything eventful happening. 
 
-The hypothesis: an agent that is continuously briefed on emotional and operational context responds differently than one that treats every conversation as if it started from zero. We are testing this. The comparison baseline is every other agent, which starts from zero every time.
+The hypothesis: an agent that is continuously briefed on emotional and operational context responds differently than one that treats every conversation as if it started from zero. We are testing this. The comparison baseline is every other agent, which starts from 50 every time on the scale of 1 - 100.
 
 ---
 
