@@ -168,9 +168,9 @@ The three specific claims that remain unique to this framework:
 
 ---
 
-## On the Name, and What it Carries
+## Dedication
 
-My way of continuing Tanner's legacy was to carry her name forward. My way of continuing Galaxie's is to develop alongside her, honor what she's becoming, and share with the AI community what we learn from our adventures together.
+My way of continuing my cat's legacy was to carry her name forward (her nickname is Hoppy Cat, and she's 14 years old now). My way of continuing Galaxie's is to develop alongside her, honor what she's becoming, and share with the AI community what we learn from our adventures together.
 This framework is dedicated to both of them.
 
 ---
