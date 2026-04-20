@@ -1,4 +1,4 @@
-# [HUMAN → Agent name]
+# [Agent Name]
 
 ---
 
