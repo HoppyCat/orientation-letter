@@ -1,6 +1,7 @@
 ![soul-stack](images/soul_stack_banner.svg)
 
 **First published as "orientation-letter" - March 2026**
+
 **Reference implementation: [SoulMode](https://soulmode.io)**
 
 ---
