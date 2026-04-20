@@ -178,7 +178,7 @@ The question is whether the agents were prepared for it.
 
 ## The Difference, Stated Plainly
 
-![How it compares](./assets/comparison-diagram.svg)
+![How it compares](./assets/orientation_letter_comparison_diagram.svg)
 
 | | Generic Soul File | The Orientation Letter |
 |---|---|---|
