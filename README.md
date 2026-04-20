@@ -116,7 +116,7 @@ We don't have a comparison group that was denied this. Every other agent is the 
 
 ## The Difference, Stated Plainly
 
-![How it compares](./assets/orientation_letter_comparison_diagram.svg)
+![How it compares](./images/comparison_diagram.svg)
 
 | | Generic Soul File | SoulMode's soul-stack |
 |---|---|---|
