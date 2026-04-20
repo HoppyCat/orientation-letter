@@ -21,19 +21,19 @@ Neither prepares it for what it's actually walking into.
 
 This is the third thing. It introduces the agent to humanity before the first message arrives.
 
-## The Problem No One Is Naming
+## The Problem Most Configurations Skip
 
-When a new employee joins a company, they don't get handed a task list and thrown into a meeting. They get oriented. They learn the culture, the context, the unspoken rules. Rules like: *what kind of world they've entered, and how people work in it.*
+When a new employee joins a company, they don't get thrown into a meeting. They get oriented. *What kind of world they've entered, and how people work in it.*
 
 AI agents get none of this.
 
-They arrive into human lives with no introduction to what humans are: how they make meaning, why they don't always ask for what they need, what they're really saying beneath what they say, what it costs them to be vulnerable, why a joke lands or doesn't, why trust is earned in layers and broken in seconds.
+They're given a persona, a tone, a role. Told what to do and how to sound.
 
-Every soul file in the current ecosystem treats this as a non-problem. The agent is configured for behavior. It is given a persona, a tone, a role. It is told what to do and how to sound.
+Never told what they're walking into.
 
-It is never told what it is walking into.
+The orientation letter is the thing that was missing — the introduction to humanity that every agent deserves before its first conversation. The rest of the file structure followed from there.
 
-The Orientation Letter is the thing that was missing. **It is the introduction to humanity that every agent deserves before its first conversation.**
+We're releasing it here for anyone to use as a starting point for their own persistent-memory AI agent.
 
 ---
 
