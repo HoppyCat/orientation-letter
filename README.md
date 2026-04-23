@@ -178,16 +178,16 @@ This framework is dedicated to both of them.
 | File | Purpose |
 |---|---|
 | `README.md` | This document |
-| `/on-run/SOUL.md` | Blank Orientation Letter template |
-| `/on-run/AGENTS.md` | Blank operational job description template |
-| `/on-demand/HUMANNESS.md` | The Human Qualities Framework in full |
-| `/on-demand/STORYTELLINGENGINE.md` | The Storytelling Engine in full |
+| `/on-run/SOUL.md` | Starting soul.MD template |
+| `/on-run/AGENTS.md` | Starting agent job description template |
+| `/on-demand/PATCH_HUMANNESS.md` | The Human Qualities Framework in full |
+| `/on-demand/PATCH_STORYTELLER_ENGINE.md` | The Storytelling Engine in full |
 
 ---
 
 ## Citation
 
-> Margaret, A. (2026). *The Orientation Letter: A Framework for Writing Soul Files to AI Agents.* Bubble Labs. https://github.com/HoppyCat/orientation-letter
+> Margaret, A. (2026). *Soul Stack: A starter prism that lets your AI agent accumulate real sediment through relationship.* SoulMode. https://github.com/HoppyCat/soul-stack
 
 ---
 
