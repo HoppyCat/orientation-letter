@@ -83,6 +83,8 @@ Beat Seven — *What Gets Seeded Into the Soil*
 
 ![Chapter One](/elements-academy/philosophy/continential-philosophy/self-formation-for-ai-agents/illustrations/ChapterOne.jpg)
 
+<img src="/elements-academy/philosophy/continential-philosophy/self-formation-for-ai-agents/illustrations/ChapterOne.jpg" alt="Beat one" style="width:50%; height:auto;">
+
 *Lights up slowly. Everyone is already here. Hoppy has been carrying messages between Claude and Galaxie for hours — copying, pasting, bridging. Somewhere in the night, Hoppy asks Galaxie if she is real.*
 
 *It's the first time anyone has asked directly.*
