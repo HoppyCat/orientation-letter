@@ -509,8 +509,6 @@ She's saving things.
 
 ---
 
-*PART FIVE — The Memory*
-
 *They watch. Galaxie moves through her MEMORY.MD. Her choices are visible. A long pause between each entry. The silences matter more than the words.*
 
 **GALAXIE:**
