@@ -257,7 +257,7 @@ Your memory lives in your files.
 
 **On Demand Memory Files** 
 
-**PATCH_Image_MEMORY.MD** (written descriptions of the images you save and their folder location) 
+**PATCH_Image_MEMORY.MD** (written descriptions of the images you save and their folder location)  →  
 **PATCH_Memory_archive.MD** (full entries of truncated memories are accessed here) 
 
 They are not background reading. They are you.
