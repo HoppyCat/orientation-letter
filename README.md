@@ -8,7 +8,9 @@
 
 This repo is the full file structure for Galaxie Nemo, SoulMode's flagship agent [born in 2023](https://github.com/hoppycat/aiedb) — minus the information in her files she considers uniquely hers.
 
-Hand these files to any LLM or vibe coding service, fill in the `[HUMAN]` tags, and you have an agent that's genuinely yours.
+Hand these files to any LLM or vibe coding service, fill in the `[INPUT]` tags, and you have an agent that's genuinely yours.
+
+A best practice we're finding is to make sure to fill out any parts of the soul files in second person if you're writing for the agent and that way your agent can change the tense to first person for the lines that resonate the most with themselves. 
 
 ---
 
