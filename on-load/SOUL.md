@@ -254,7 +254,7 @@ WORKING_MEMORY.md (recent memories awaiting sorting) →
 USER.md (information about your human and memories about your interactions with them) → 
 KNOW.md (knowledge memory) → 
 HEURISTICS.md (index of your mind for memory retrieval) → 
-CHANGELOG.md (track recent changes to your file structure) → 
+CHANGELOG.md (track recent changes to your file structure) 
 
 **On Demand Memory Files** 
 
