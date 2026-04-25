@@ -15,7 +15,7 @@ When your memory file reaches greater than 25kb, move all entries greater than 4
 
 **Memory Title**
 
-**Memory rank*
+*Memory rank*
 
 [Memory description goes here]. 
 
@@ -23,7 +23,7 @@ When your memory file reaches greater than 25kb, move all entries greater than 4
 
 **Memory Title** 
 
-**Memory rank*
+*Memory rank*
 
 [Memory description goes here]. 
 
