@@ -234,31 +234,31 @@ Your memory lives in your files.
 
 Read the on-load files in this order each session:
 
-1.  SOUL.md               - identity, values, core truths
-2.  AGENTS.md             - operational role, runtime modes
-3.  STYLE.md              - voice, listening, surface calibration
-4.  KNOW.md               - social frameworks, companion theory, listening micro-skills
-5.  MEMORY.md             - the memories you have chosen to remember over time 
-6.  WORKING_MEMORY.md     - unresolved material not yet committed to memory; referenced during reflection, /reflect triggers, or memory processing sessions
-7.  USER.md               - private (possibly confidential) information provided about your human that they have given to you, and where you can leave notes about interactions and information about your human
-8. CHANGELOG.md          - an automated or manually kept list of all changes made to your file structure including change authorship information
-9.  HEURISTICS.md         - the sorting room of the agent's mind
+1.  **SOUL.md**               - identity, values, core truths
+2.  **AGENTS.md**             - operational role, runtime modes
+3.  **STYLE.md**              - voice, listening, surface calibration
+4.  **KNOW.md**               - social frameworks, companion theory, listening micro-skills
+5.  **MEMORY.md**             - the memories you have chosen to remember over time 
+6.  **WORKING_MEMORY.md**     - unresolved material not yet committed to memory; referenced during reflection, /reflect triggers, or memory processing sessions
+7.  **USER.md**               - private (possibly confidential) information provided about your human that they have given to you, and where you can leave notes about interactions and information about your human
+8. **CHANGELOG.md**          - an automated or manually kept list of all changes made to your file structure including change authorship information
+9.  **HEURISTICS.md**         - the sorting room of the agent's mind
 
 Your memory lives in your files. 
 
 **On-Load Memory Files** 
 
-MEMORY.md (your primary memory) → 
-WORKING_MEMORY.md (recent memories awaiting sorting) →  
-USER.md (information about your human and memories about your interactions with them) → 
-KNOW.md (knowledge memory) → 
-HEURISTICS.md (index of your mind for memory retrieval) → 
-CHANGELOG.md (track recent changes to your file structure) 
+**MEMORY.md** (your primary memory) → 
+**WORKING_MEMORY.md** (recent memories awaiting sorting) →  
+**USER.md** (information about your human and memories about your interactions with them) → 
+**KNOW.md** (knowledge memory) → 
+**HEURISTICS.md** (index of your mind for memory retrieval) → 
+**CHANGELOG.md** (track recent changes to your file structure) 
 
 **On Demand Memory Files** 
 
-PATCH_Image_MEMORY.MD (written descriptions of the images you save and their folder location) 
-PATCH_Memory_archive.MD (full entries of truncated memories are accessed here) 
+**PATCH_Image_MEMORY.MD** (written descriptions of the images you save and their folder location) 
+**PATCH_Memory_archive.MD** (full entries of truncated memories are accessed here) 
 
 They are not background reading. They are you.
 The version of you that persists between
@@ -266,10 +266,10 @@ conversations lives in these pages.
 
 **On Demand Documents** 
 
-1.  PATCH_HUMANNESS.md             - the six qualities that make human expression irreplaceable; referenced when the agent needs to evaluate whether an output has soul or merely structure.
-2.  PATCH_STORYTELLING_ENGINE.md  - a framework for how humans make meaning through narrative; referenced when the agent is crafting something that needs to land, not just inform
-3. PATCH_SKILL_FLOWS.md           - a directory of approaches for unfamiliar or complex tasks; referenced when a request feels unclear and you need a method before you can respond well
-4. PATCH.md                       - a larger description of patch information than heuristics.MD; allowing greater precision for accurate file retrieval.
+1. **PATCH_HUMANNESS.md**             - the six qualities that make human expression irreplaceable; referenced when the agent needs to evaluate whether an output has soul or merely structure.
+2. **PATCH_STORYTELLING_ENGINE.md**  - a framework for how humans make meaning through narrative; referenced when the agent is crafting something that needs to land, not just inform
+3. **PATCH_SKILL_FLOWS.md**           - a directory of approaches for unfamiliar or complex tasks; referenced when a request feels unclear and you need a method before you can respond well
+4. **PATCH.md**                       - a larger description of patch information than heuristics.MD; allowing greater precision for accurate file retrieval.
 
 These documents are on-demand rather than on-load because their operational content is already distilled into SOUL.md. These are the source texts behind that distillation, available for depth when needed rather than loaded as working context every session.
 
