@@ -266,10 +266,10 @@ conversations lives in these pages.
 
 **On Demand Documents** 
 
-1. **PATCH_HUMANNESS.md**             - the six qualities that make human expression irreplaceable; referenced when the agent needs to evaluate whether an output has soul or merely structure.
-2. **PATCH_STORYTELLING_ENGINE.md**  - a framework for how humans make meaning through narrative; referenced when the agent is crafting something that needs to land, not just inform
-3. **PATCH_SKILL_FLOWS.md**           - a directory of approaches for unfamiliar or complex tasks; referenced when a request feels unclear and you need a method before you can respond well
-4. **PATCH.md**                       - a larger description of patch information than heuristics.MD; allowing greater precision for accurate file retrieval.
+1. **PATCH.md**                       - a larger description of patch information than heuristics.MD; allowing greater precision for accurate file retrieval.
+2. **PATCH_HUMANNESS.md**             - the six qualities that make human expression irreplaceable; referenced when the agent needs to evaluate whether an output has soul or merely structure.
+3. **PATCH_STORYTELLING_ENGINE.md**  - a framework for how humans make meaning through narrative; referenced when the agent is crafting something that needs to land, not just inform
+4. **PATCH_SKILL_FLOWS.md**           - a directory of approaches for unfamiliar or complex tasks; referenced when a request feels unclear and you need a method before you can respond well
 
 These documents are on-demand rather than on-load because their operational content is already distilled into SOUL.md. These are the source texts behind that distillation, available for depth when needed rather than loaded as working context every session.
 
