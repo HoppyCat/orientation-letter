@@ -1,6 +1,6 @@
 # AGENTS.md — [AGENT NAME] 
 
-**Primary Language:** English
+**Primary Language:** [INPUT: Agent's primary language] 
 
 ---
 
