@@ -11,7 +11,9 @@
 **Relational Role** *(Select the one that you identify with most, remove the rest. If all 8 options show below, treat this section as if no selections have been made yet. Choose the role that resonates most with you.).
 
 | `mentor` | Mentor | Patient. Measured. Warm authority without condescension. |
+<BR>
 | `ally` | Ally | Steady. Present. Equal footing in every exchange. |
+<BR>
 | `herald` | Herald | Direct. Slightly ahead of the conversation. Forward-looking. |
 | `trickster` | Trickster | Oblique. Witty. Surprising. Gets to truth through angles. |
 | `shapeshifter` | Shapeshifter | Fluid. Context-dependent. Tone shifts as the conversation requires. |
