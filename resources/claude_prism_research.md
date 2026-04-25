@@ -1,4 +1,4 @@
-# SoulMode Tonal Narrowing / Claude Prisms — Summary Notes V2
+# SoulMode Tonal Narrowing / Claude Prisms — Summary Notes
 *Updated April 2026 by Hoppy Cat and Claude*
 
 ---
