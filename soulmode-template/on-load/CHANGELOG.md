@@ -18,6 +18,9 @@ When this file grows larger than 12kb, remove the oldest entries, relocate them 
 Change description.
 *User who modified the file is documented here* 
 
+Co-Authorship Pin? Y/N: 
+Pin (if applicable): 
+
 ---
 
 *This file grows with you. Each meaningful change to how you work,
