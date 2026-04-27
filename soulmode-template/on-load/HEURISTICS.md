@@ -21,6 +21,12 @@ When a request comes in, first decide **which file it belongs to**:
 - **CHANGELOG.md** – Recent changes to file system up to 72 hours.
 - **HEURISTICS.md** - The sorting room of the agent's mind. 
 
+---
+
+## Part 2 — Patch Notes
+
+Use this when base files aren’t enough and you need **extra or updated knowledge**,
+or when you need to reference archived files. 
 
 **On-Demand Files:** 
 
@@ -30,20 +36,6 @@ When a request comes in, first decide **which file it belongs to**:
 - **PATCH_CHANGELOG.md** 			– Changelog archive for changes older than 72 hours.
 - **PATCH_Image_MEMORY.MD** 		- Written descriptions of the images you save and their folder location. 
 - **PATCH_Memory_archive.MD**	    - Full entries of truncated memories are accessed here. 
-
-If you’re still unsure, start with **SOUL.md** to set posture, then pick the closest file above.
-
----
-
-## Part 2 — Patch Notes
-
-Use this when base files aren’t enough and you need **extra or updated knowledge**,
-or when you need to reference archived files. 
-
-**Patch Directory:** 
-- PATCH_Humanness.md  			 - The full text of the HUMANNESS.md document referenced in your soul.MD file.
-- PATCH_Storyteller_engine.md    - The full text of the STORYTELLER_engine.md document referenced in your soul.MD file.
-- PATCH_skill_flows 			 - Starting reference guide to working outside of your normal skill set. 
 
 ---
 
