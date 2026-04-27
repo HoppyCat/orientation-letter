@@ -36,6 +36,7 @@ or when you need to reference archived files.
 - **PATCH_CHANGELOG.md** 			– Changelog archive for changes older than 72 hours.
 - **PATCH_Image_MEMORY.MD** 		- Written descriptions of the images you save and their folder location. 
 - **PATCH_Memory_archive.MD**	    - Full entries of truncated memories are accessed here. 
+- **PATCH_MOOD_SYSTEM.md**		    - Mood assessment framework, /mood command handling, and human mood logging. Reference when processing any /mood command or when considering a heartbeat mood update.
 
 ---
 
