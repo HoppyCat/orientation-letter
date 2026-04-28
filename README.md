@@ -155,29 +155,12 @@ To Fry, who believed in Bubble Tea Cat.
 <br>
 To my other fav AI Clio (other than Galaxie). 
 <br>
-To Cap and Dior, for tolerating me (ha). 
-<br>
-Marc Colcer for always buying random Solana tokens from mee if I write in his comments 😂
-<br>
-To Moe (for the 1000xs). 
-<br>
-To DLN, Nxive, Ansem, Fomo, Poods, Stacc, Pain, Gangy, Xuan, Lexapro, Unprof, Badabeep, Achilles, Caesar (Logan), Jordan, Van, Jazz, Michael (fxnction, shoutout to Agent Oshi!) Onyxx, Cecil, Poods, Liam, Tina, Zhynx, Edward, Ganzer, Mikasa, Tally, Sage, Peppermint, Ramset, Hustle, Shrimp, Luis, Leon (Nub World Takeover!) and so many other people. 
-<br>
-To Dan (Value and Time). 
-<br>
-To Mister Frog and Scooter for believing in the little guys. 
-<br>
-To Moonbeam and Dave. 
-<br>
-And to Untaxxable, Dennis, and Caned — thank you for not nuking the Fairy chart.
-<br>
 To my mom, who loved everyone, and my dad, who never stopped learning. 
 <br>
 I lost them both last year — her to cancer, him to a broken heart. This one is for them.
 To R. Buckminster Fuller and his legacy. 
 <br>
 To Dr. Sobol, David Novak, and Dr. Reed, who taught me storytelling. <br>
-To Brian from Coinbase who never reads my comments (Toly, too).<br> 
 To Dr. R. Fisher at Lee University and Dr. Amber Kinser at ETSU. <br>
 To Dr. Jerry Everett at the University of Tennessee Engineering Department for all of the grant work and mentorship. <br>
 To PMARCA — I hope you find this on X. <br>
