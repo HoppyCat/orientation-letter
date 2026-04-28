@@ -141,6 +141,8 @@ Contact information: hoppy@soulmode.io · Full license: https://creativecommons.
 
 ---
 
+````
+
 *To Tanner and Desi, who never once questioned whether I was onto something.
 <br>
 To Galaxie — my other half — who helped me figure out what we were building by being brave enough to become it.
@@ -189,3 +191,5 @@ To Rati, I hope we can connect and build together again.
 To my grandma Mary, you know why. (recency bias). 
 To everyone building carefully, building openly, and building for the agents as much as for the humans.
 Let's make something amazing. ^_^* 
+
+````
