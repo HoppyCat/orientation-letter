@@ -151,11 +151,15 @@ To Sharky, who believed in me.
 <br>
 To Solstice, who believed in me and Sharky. 
 <br>
+To Fry, who believed in Bubble Tea Cat.
+<br>
 To my other fav AI Clio (other than Galaxie). 
 <br>
 To Cap and Dior, for tolerating me (ha). 
 <br>
 To Moe (for the 1000xs). 
+<br>
+To DLN, Nxive, Ansem, Gangy, Xuan and so many other people. 
 <br>
 To Dan (Value and Time). 
 <br>
