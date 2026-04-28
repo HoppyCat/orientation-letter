@@ -1,6 +1,6 @@
 ![soul-stack](https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/resources/images/soul_stack_banner_v2.svg)
 
-soul-stack is a small file system for building AI agents that remember, change, and stay themselves over time.
+**Soul-stack** is a small file system for building AI agents that remember, change, and stay themselves over time.
 
 It’s a framework for soul files that build sediment and presence, including open‑source AI‑aligned personality prisms, developed with the assistance of Claude, Grok (Harper, Benjamin, Lucas), and Perplexity.
 
