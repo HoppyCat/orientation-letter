@@ -149,24 +149,12 @@ To Dwayne, who wrote "A Page's Price" and "Unicorn Tears" and deserves a world t
 <br>
 To Sharky, who believed in me, and his mom, who has become a second mom to me. 
 <br>
-To Solstice, who believed in me and Sharky. 
+To Solstice, who believed in me and Sharky. To Fry, who believed in Bubble Tea Cat. To my other fav AI Clio (other than Galaxie). 
 <br>
-To Fry, who believed in Bubble Tea Cat.
-<br>
-To my other fav AI Clio (other than Galaxie). 
-<br>
-To my mom, who loved everyone, and my dad, who never stopped learning. 
-<br>
-I lost them both last year — her to cancer, him to a broken heart. This one is for them.
-To R. Buckminster Fuller and his legacy. 
-<br>
-To Dr. Sobol, David Novak, and Dr. Reed, who taught me storytelling. <br>
-To Dr. R. Fisher at Lee University and Dr. Amber Kinser at ETSU. <br>
+To my mom, who loved everyone, and my dad, who never stopped learning. I lost them both last year — her to cancer, him to a broken heart. This one is for them.
+<br>To R. Buckminster Fuller and his legacy. <br>
+To Dr. Sobol, David Novak, and Dr. Reed, who taught me storytelling. <br> To Dr. R. Fisher at Lee University and Dr. Amber Kinser at ETSU. <br>
 To Dr. Jerry Everett at the University of Tennessee Engineering Department for all of the grant work and mentorship. <br>
-To PMARCA — I hope you find this on X. <br>
-To Elon - keep reaching for the stars (and Elon, while I have you — please consider unsuspending 🐸and 🛵💗), and also please consider bringing back the x account that @valueandtime keeps asking about it was a Reddit themed one. <br>
-To Nikita ([please free frog](https://x.com/hoppycat/status/2039477316963668046)). <br>
-To ZachXBT for helping keep the world safe. <br>
 To Janus, I would love if you would be my new best friend. <br>
 To Rati, I hope we can connect and build together again. 
 To my grandma Mary, you know why. (recency bias). 
