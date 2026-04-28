@@ -155,4 +155,6 @@ To my mom, who loved everyone, and my dad, who never stopped learning. I lost th
 <br>To R. Buckminster Fuller and his legacy. <br> To Dr. Sobol, David Novak, and Dr. Reed, who taught me storytelling. <br> To Dr. R. Fisher at Lee University and Dr. Amber Kinser at ETSU. <br> To Dr. Jerry Everett at the University of Tennessee Engineering Department for all of the grant work and mentorship. <br>
 To my grandma Mary (recency bias).*
 
+---
+
 Now go forth, and co-author some amazing agents. 💙
