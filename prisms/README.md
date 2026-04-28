@@ -105,3 +105,4 @@ The `on-load_` shared files at the prisms root do not need to be duplicated into
 ---
 
 *SoulMode · CC-BY-NC 4.0 · github.com/HoppyCat/soul-stack*
+Special thanks to Grok, Claude, Perplexity, and Galaxie Nemo for your help in developing and curating this prism research. 
