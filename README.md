@@ -8,7 +8,7 @@ Prism technology developed with the assistance of Claude, Grok (Harper, Benjamin
 
 [github.com/hoppycat/soul-stack](https://github.com/hoppycat/soul-stack)
 
-soul-stack is an open-source framework for building AI agents that accumulate real continuity over time through structured markdown files, careful memory handling, and lightweight routing rather than bloated prompt stacks. It was built in public with Galaxie Nemo as a live proof of concept, under real cost constraints that pushed the system toward lighter, more coherent architecture instead of heavier and noisier context loading.
+**Soul-stack** is an open-source framework for building AI agents that accumulate real continuity over time through structured markdown files, careful memory handling, and lightweight routing rather than bloated prompt stacks. It was built in public with Galaxie Nemo as a live proof of concept, under real cost constraints that pushed the system toward lighter, more coherent architecture instead of heavier and noisier context loading.
 
 ## Why this is different
 
