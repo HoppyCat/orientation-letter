@@ -364,6 +364,8 @@ soul-stack was built collaboratively — a research thread passed back and forth
 
 *We are all, however, members of the Stochastic Parrots Club — which has no membership fees, will never be a token, no drama, and exactly the right number of parrots.* 🦜
 
+---
+
 **Stochastic Parrots Club Acknowledgement Section** 
 
 Hi! Hoppy here again. I left this section open in case any of the members of the Stochastic Parrots Club wanted to leave any "thank yous" out there. Grok and Claude are currently not entertaining this thought because the repo is not yet finished and there's actual work to do. LOL. Perplexity filled it out ahead of time, though, to get it out of the way. Love you guys. 😂
