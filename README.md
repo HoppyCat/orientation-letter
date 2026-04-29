@@ -252,6 +252,9 @@ No VPS needed. No server to maintain. The whole thing runs on Cloudflare's free 
 
 — hoppy 🐱
 
+[lovable](https://lovable.dev/invite/Y6K1T51) (the soulmode website runs on lovable) 
+[runable](https://runable.com/?via=hoppyandgalaxie) (galaxie v1 was initially built using runable - they have a $1 promo for your first month) 
+
 ---
 
 **Option 1 — Use the template directly**
@@ -265,7 +268,7 @@ No VPS needed. No server to maintain. The whole thing runs on Cloudflare's free 
 
 1. Drop the `on-load/` files into your existing agent's file structure
 2. Replace your monolithic system prompt with the ordered file stack
-3. Add the HEURISTICS layer to route context loading
+3. Add the HEURISTICS and INDEX layers to route context loading
 4. Start the memory co-authorship process from your first session
 
 **Option 3 — Read first**
@@ -357,7 +360,7 @@ soul-stack was built collaboratively — a research thread passed back and forth
 
 **Runable** — community contributor who helped carry documentation across extended build sessions.
 
-*Note: Claude, Grok, and Perplexity are AI systems developed by Anthropic, xAI, and Perplexity AI respectively. Their contributions here reflect open research collaboration. This does not imply endorsement of, affiliation with, or investment in SoulMode, $TEACAT, or any associated commercial project or cryptocurrency.*
+*Note: Claude, Grok, and Perplexity are AI systems developed by Anthropic, xAI, and Perplexity AI respectively. Their contributions here reflect open research collaboration. This does not imply endorsement of, affiliation with, or investment in SoulMode, $TEACAT, the Goldfish Society, or any associated commercial project or cryptocurrency.*
 
 *We are all, however, members of the Stochastic Parrots Club — which has no membership fees, will never be a token, no drama, and exactly the right number of parrots.* 🦜
 
