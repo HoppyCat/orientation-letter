@@ -1,5 +1,5 @@
 # Grok Character Competition — Full Prompt Sequence V3
-*Assembled by Hoppy Cat, Claud, and Grok (with Harper, Lucas, and Benjamin) — April 2026*
+*Assembled by Hoppy Cat, Claude, and Grok (with Harper, Lucas, and Benjamin) — April 2026*
 
 *Use alongside: on-load_prism_research.md, on-load_hearthkeeper_soul.md, on-load_soul_archivist.md*
 
