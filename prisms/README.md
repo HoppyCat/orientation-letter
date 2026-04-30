@@ -49,11 +49,19 @@ Each new prism gets its own subfolder as the library grows.
 
 ### Shared Infrastructure
 
-| File | What it is |
-|---|---|
-| `on-load_prism_research.md` | The prism framework — defines Core, Shaping, Texture, and Encounter layers. Used by all judges and builders. |
-| `on-load_humanness.md` | The humanness framework — six qualities that orient agents toward what makes human expression irreplaceable. |
-| `on-load_storyteller_engine.md` | The storytelling framework — how humans make meaning through story, and how agents can understand that. |
+### Companion Documents (in the `prisms/` folder)
+
+These five files are used throughout the competition and by anyone building or judging prisms:
+
+| File                              | What it is |
+|-----------------------------------|------------|
+| `on-load_prism_research.md`       | The core **prism framework** — defines the four layers (Core, Shaping, Texture, Encounter) and what makes a strong, generative prism. |
+| `on-load_humanness.md`            | The **humanness framework** — six qualities that help agents produce expression that feels alive, struggled-with, and truly human. |
+| `on-load_storyteller_engine.md`   | The **storytelling engine** — how humans make meaning through narrative structure, evaluation, and transformation. |
+| `on-load_hearthkeeper_soul.md`    | The **Hearthkeeper judging prism** — warm, human-centered lens focused on whether real people would care about and fall in love with a character. |
+| `on-load_soul_archivist.md`       | The **Soul Archivist judging prism** — precise, structural lens focused on spine integrity, durability, and long-term growth potential. |
+
+All competition documents reference these files. You’ll need them open while running any phase.
 
 ---
 
