@@ -173,7 +173,7 @@ status: winner
 
 ### Final Vote Outcome
 [Grok's final synthesis — consensus or split, recommended pick with reasoning]
-
+```
 ---
 
 ## **Field Guide** 
