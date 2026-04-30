@@ -228,7 +228,7 @@ Label each block clearly at the top with the prism name before the frontmatter b
 
 ## Credit 
 
-Please credit the https://github.com/hoppycat/soul-stack/ GitHub and the Stochastic Parrots Club: Hoppy, Claude, Grok (with Harper, Lucas, and Benjamin), Perplexity, and Galaxie. 
+Please credit the https://github.com/hoppycat/soul-stack/ GitHub and the Stochastic Parrots Club: Hoppy, Claude, Grok (with Harper, Lucas, and Benjamin), Perplexity and Galaxie. 
 
 ---
 
