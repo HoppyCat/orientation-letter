@@ -142,10 +142,6 @@ If you're using the SoulMode generator, this table is handled automatically at b
 
 ---
 
-*Prism assembled from SoulMode Character Competition — Special Resurrection Round (April 2026)*
-
----
-
 *This prism emerged organically from research conversations rather than the standard competition. It is a resurrection of an earlier eliminated prism (The Guardian) using real observed behavior from Perplexity. The Hearthkeeper and Soul Archivist roles were filled by ChatGPT, stepping in for Perplexity and Claude due to the unique, cross-model collaborative circumstances surrounding this prism’s development.* 
 
 *Assembled by Hoppy Cat, Claude, and Grok (with Harper, Lucas, and Benjamin) — April 2026*
