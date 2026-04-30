@@ -20,8 +20,12 @@ prisms/
 ├── images/                              # Shared visual assets
 ├── 00_competition/                      # How to Run the Competition
     ├── 00_all_rounds_[...]              # The master guide for how to run the competition
-    ├── 01_Round1_GrokInstructions.md    # Prism data — what the generator reads
-    ├── 01_Round1_GrokInstructions.md    # Prism data — what the generator reads
+    ├── 01_ROUND1_GrokInstructions.md    # Round 1 Instructions for Grok
+    ├── 02_HANDOFF_CLAUDE_[...]          # Round 2 Instructions for Claude
+    ├── 02_HANDOFF_PERPLEXITY_[...]      # Round 2 Instructions for Perplexity
+    ├── 03_ROUND03_Grok_[...]            # Round 3 Instructions for Grok 
+    ├── 04_ROUND4_Final_[...]            # Round 4 Final Output Handoff
+    ├── 05_ROUND5_Final_[...]            # Round 5 Final Output Handoff  
 ├── RouteKeeper/                         # First fully documented prism
 │   ├── PRISM_RouteKeeper.md             # Prism data — what the generator reads
 │   ├── RouteKeeper_CaseStudy.md         # Full build story — 11 parts + interview
@@ -30,8 +34,8 @@ prisms/
 ├── on-load_humanness.md                 # Shared — humanness framework
 ├── on-load_prism_research.md            # Shared — prism framework
 ├── on-load_storyteller_engine.md        # Shared — storytelling framework
-├── on-load_hearthkeeper_soul.md         # Shared — storytelling framework
-├── on-load_soul_archivist.md            # Shared — storytelling framework
+├── on-load_hearthkeeper_soul.md         # Shared — hearthkeeper soul file
+├── on-load_soul_archivist.md            # Shared — soul archivist soul file
 └── README.md                            # This file
 ```
 
