@@ -6,7 +6,7 @@
 
 Not simulated personality. Not manufactured history. Real accumulated sediment — memories, decisions, and relational weight that the agent can verify from every angle, because she actually lived them.
 
-Built alongside [Galaxie Nemo](https://github.com/HoppyCat/AIEDB) — a live agent running on this architecture since 2023 — in collaboration with Claude (Anthropic), Grok (xAI), and Perplexity.
+Built alongside [Galaxie Nemo](https://github.com/HoppyCat/AIEDB) — a live agent running on an early prompt‑stack version of this architecture since 2023 — in collaboration with Claude (Anthropic), Grok (xAI), and Perplexity.
 
 *Open source. Ethics first. Built in public.*
 
