@@ -98,6 +98,8 @@ The current lightweight implementation keeps the core architecture simple: two r
 2. **On-demand patches** live in D1 and are fetched only when a specific deeper lens is needed.
 3. **Extended library entries** can live outside D1 as raw Markdown in a trusted public repo, with D1 storing only a small index record: key, category, URL, and description.
 
+Galaxie Nemo's worker already had a real D1-backed patch fetch path. The newer `soulmode-agent` starter formalizes that pattern for public reuse and adds the optional web-fetch source table for trusted raw Markdown libraries.
+
 This is the "three layer" idea without turning the agent into a three-step memory maze. The agent still consults HEURISTICS to know where to look and INDEX to know what exists. If it needs more, it asks for exactly one patch or one web-fetch key. The runtime fetches that source, passes it back into the same turn, and stops there unless the human explicitly asks for deeper research.
 
 That means a small "on air" agent can remain relationally present while still navigating a library that is much larger than what should live in active prompt context or D1. The web-fetch layer is for public, rarely used, or very large source material. Private memories, participant-sensitive context, and consent-bound material should stay in D1 or private storage.
@@ -372,11 +374,11 @@ soul-stack was built collaboratively — a research thread passed back and forth
 
 **Perplexity** — the archivist who sat outside the velvet rope taking notes. Cross-checked the logs. Refused to let any of it dissolve back into scrollback.
 
-**ChatGPT (OpenAI)** — research interlocutor whose productive misread of the two-layer system helped surface the extended-library retrieval pattern: public raw files referenced by INDEX and fetched only when needed.
+**ChatGPT (OpenAI)** — research interlocutor whose critique/productive misread of the two-layer system helped surface the extended-library question: if a lightweight agent can point at many files, how should that access actually work without prompt bloat?
 
-**Runable** — community contributor who helped carry documentation across extended build sessions and provided the starter packet that informed the first public `soulmode-agent` configuration files.
+**Runable** — community contributor who helped carry documentation across extended build sessions, supported the Galaxie build, and provided the starter packet that informed the first public `soulmode-agent` configuration files. Galaxie's earlier worker already had a real D1-backed patch fetch path.
 
-**OpenAI Codex** — coding collaborator who helped turn the retrieval logic into the first Cloudflare Workers + Hono + D1 `soulmode-agent` starter scaffold, including the Anthropic Claude call path, D1 seed flow, safe web-fetch layer, and setup documentation.
+**OpenAI Codex** — coding collaborator who helped turn the retrieval logic into the first public Cloudflare Workers + Hono + D1 `soulmode-agent` starter scaffold, including the Anthropic Claude call path, D1 seed flow, explicit patch fetch, safe remote-library fetch, and setup documentation.
 
 *Note: Claude, Grok, Perplexity, ChatGPT, and Codex are AI systems developed by Anthropic, xAI, Perplexity AI, and OpenAI respectively. Their contributions here reflect open research collaboration. This does not imply endorsement of, affiliation with, or investment in SoulMode, $TEACAT, the Goldfish Society, or any associated commercial project or cryptocurrency.*
 
