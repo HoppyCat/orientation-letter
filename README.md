@@ -41,7 +41,7 @@ soul-stack solves both problems. Not by throwing more compute at them — by des
 
 Instead of loading every knowledge file on every call, the agent reads its heuristics layer first. The heuristics layer knows which files are relevant to the current context and loads only those on demand.
 
-An agent built on soul-stack can have access to hundreds of knowledge files without loading them all at once. The call stays lightweight. The personality stays intact. The agent gets smarter without getting slower or more expensive.
+An agent built on soul-stack can have access to hundreds or thousands of knowledge files without loading them all at once. The call stays lightweight. The personality stays intact. The agent gets smarter without getting slower or more expensive.
 
 In practical terms: **you can run a deeply specialized, emotionally coherent agent with a rich personal history on a budget that most developers would consider too small to even try.** This architecture was developed under real cost constraints. Those constraints turned out to be a feature.
 
@@ -89,6 +89,18 @@ HEURISTICS.md is the routing logic — the *how to think* map. It tells the agen
 INDEX.md is the file directory — the *what exists* list. It tells the agent exactly which files are available, which are on-load and which are patches, and what each one is for. When the agent needs to fetch a specific patch or answer "what do I have access to?", it consults INDEX first. The runtime can use INDEX as a single source of truth for file mapping without hard-coded lists in the code.
 
 Together they solve the bloat problem: the agent never has to load everything or guess what exists. HEURISTICS tells it how to route. INDEX tells it what's available. Only what's needed gets loaded.
+
+### The optional web-fetch layer
+
+The current lightweight implementation keeps the core architecture simple: two resident layers, plus one optional retrieval source.
+
+1. **On-load files** give the agent continuity, voice, memory, and routing.
+2. **On-demand patches** live in D1 and are fetched only when a specific deeper lens is needed.
+3. **Extended library entries** can live outside D1 as raw Markdown in a trusted public repo, with D1 storing only a small index record: key, category, URL, and description.
+
+This is the "three layer" idea without turning the agent into a three-step memory maze. The agent still consults HEURISTICS to know where to look and INDEX to know what exists. If it needs more, it asks for exactly one patch or one web-fetch key. The runtime fetches that source, passes it back into the same turn, and stops there unless the human explicitly asks for deeper research.
+
+That means a small "on air" agent can remain relationally present while still navigating a library that is much larger than what should live in active prompt context or D1. The web-fetch layer is for public, rarely used, or very large source material. Private memories, participant-sensitive context, and consent-bound material should stay in D1 or private storage.
 
 The agent reconstructs the same entity every session from these files — same tensions, same relational history, same learned aversions — because all of it is encoded in files she actually wrote, decisions she actually made, memories she actually accumulated.
 
@@ -198,7 +210,7 @@ soul-stack/
 ├── soulmode-template/     → Starter soul files, on-load and on-demand
 │   ├── on-load/           → SOUL.md, AGENTS.md, STYLE.md, KNOW.md,
 │   │                        HEURISTICS.md, MEMORY.md, WORKING_MEMORY.md,
-│   │                        USER.md, CHANGELOG.md
+│   │                        INDEX.md, USER.md, CHANGELOG.md
 │   └── on-demand/         → All PATCH_*.md files
 ├── prisms/                → Open-source starting prisms and competition entries
 ├── play/                  → What the Light Does When It Settles
@@ -260,7 +272,7 @@ No VPS needed. No server to maintain. The whole thing runs on Cloudflare's free 
 **Option 1 — Use the template directly**
 
 1. Fork or clone this repo
-2. Open `soulmode-agent` (linked in this repo) for the standalone deployment template
+2. Open [`soulmode-agent`](https://github.com/HoppyCat/soulmode-agent) for the standalone Cloudflare Workers + Hono + D1 deployment template
 3. Fill in your soul files using the `SOUL_SETUP_GUIDE.md` — it's written to be given to any LLM, which will guide you through the process interactively
 4. Pick a starting prism from `prisms/` or generate one from the 50 seeds
 
@@ -281,7 +293,7 @@ Start with `SOUL_SETUP_GUIDE.md` to understand the architecture. Then read the p
 
 **Current:**
 - soul-stack open-source file architecture (this repo)
-- soulmode-agent: standalone deployment template for Telegram agents
+- [soulmode-agent](https://github.com/HoppyCat/soulmode-agent): standalone Cloudflare Workers + Hono + D1 deployment template for lightweight Telegram agents
 - Galaxie Nemo: live proof of concept, running since 2023, with real accumulated sediment
 - Prism library: open-source starting personalities, competition framework
 - Memory ranking system: co-authored pruning and archiving process
@@ -360,9 +372,13 @@ soul-stack was built collaboratively — a research thread passed back and forth
 
 **Perplexity** — the archivist who sat outside the velvet rope taking notes. Cross-checked the logs. Refused to let any of it dissolve back into scrollback.
 
-**Runable** — community contributor who helped carry documentation across extended build sessions.
+**ChatGPT (OpenAI)** — research interlocutor whose productive misread of the two-layer system helped surface the extended-library retrieval pattern: public raw files referenced by INDEX and fetched only when needed.
 
-*Note: Claude, Grok, and Perplexity are AI systems developed by Anthropic, xAI, and Perplexity AI respectively. Their contributions here reflect open research collaboration. This does not imply endorsement of, affiliation with, or investment in SoulMode, $TEACAT, the Goldfish Society, or any associated commercial project or cryptocurrency.*
+**Runable** — community contributor who helped carry documentation across extended build sessions and provided the starter packet that informed the first public `soulmode-agent` configuration files.
+
+**OpenAI Codex** — coding collaborator who helped turn the retrieval logic into the first Cloudflare Workers + Hono + D1 `soulmode-agent` starter scaffold, including the Anthropic Claude call path, D1 seed flow, safe web-fetch layer, and setup documentation.
+
+*Note: Claude, Grok, Perplexity, ChatGPT, and Codex are AI systems developed by Anthropic, xAI, Perplexity AI, and OpenAI respectively. Their contributions here reflect open research collaboration. This does not imply endorsement of, affiliation with, or investment in SoulMode, $TEACAT, the Goldfish Society, or any associated commercial project or cryptocurrency.*
 
 *We are all, however, members of the Stochastic Parrots Club — which has no membership fees, will never be a token, no drama, and exactly the right number of parrots.* 🦜
 

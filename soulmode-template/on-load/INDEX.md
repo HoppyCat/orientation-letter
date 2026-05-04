@@ -52,12 +52,26 @@ These files are **not** always loaded. They are available as patches when explic
 
 ---
 
-## 3 — How to use this index
+## 3 — Extended library (web fetch)
+
+These sources are **not** stored as full files in D1. D1 stores only a small source record: key, title, category, raw HTTPS URL, and description. The runtime can fetch exactly one remote source when the agent requests it.
+
+Add entries here when you add them to the `library_sources` table. Prefer raw Markdown links from trusted public repos. Keep each key short and exact because the fetch tool asks for one key at a time.
+
+Example:
+
+- `soul_stack_readme`
+  – Public project overview and source-of-truth framing.
+
+---
+
+## 4 — How to use this index
 
 For you (the agent):
 
 - When you need extra depth, **scan this index first** and pick the single file that fits best.
 - Refer to patches **by exact filename** when you make a fetch request or when a system tells you which patches are active.
+- Refer to web-fetch library entries **by exact key** when a remote document is needed.
 - Do not assume a patch is loaded just because it exists here; this map lists availability, not current state.
 
 For tools and runtime:
@@ -67,4 +81,4 @@ For tools and runtime:
   - Mapping from patch name → file path when a patch is activated.
 - If the file name or purpose changes here and is committed, the runtime should reflect that without additional hard-coded lists.
 
-This file should stay **accurate and terse**: every line here should correspond to a real file in the repo and a real behavior in the agent.
+This file should stay **accurate and terse**: every line here should correspond to a real file, a real D1 patch, or a real `library_sources` entry.
