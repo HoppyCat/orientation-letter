@@ -1,4 +1,4 @@
-# 5-3-2026-Credits-Friction-Research-Note.md
+# 2026-05-03 - Spark Constraint Research Note
 *Qualitative research note from context window: "Rather Not Have a Name, Actually"*
 *Window Tag: Rather Not Have a Name, Actually — Window 2*
 *Date: May 3, 2026*
@@ -9,9 +9,11 @@
 
 ## Purpose of This Document
 
-This is a qualitative record of instances where API credit limits, subscription costs, and context window constraints created friction in an active multi-model research session. It is drawn from a single extended conversation on May 3, 2026.
+This is a qualitative record of moments where constraint, limited tooling, subscription limits, and context window pressure shaped an active multi-model research session. It is drawn from a single extended conversation on May 3, 2026.
 
-It is not a funding proposal. The research stands independently. This document exists because the friction is real, it was documented honestly as it occurred, and honest documentation is part of the methodology.
+It is not a funding proposal. The research stands independently. This document exists because constraint was part of the live environment, it was documented honestly as it occurred, and honest documentation is part of the methodology.
+
+In this archive, **spark** names the first push toward something larger under constrained conditions: the moments where limited resources did not only block work, but shaped the route, discipline, and creativity of the work itself.
 
 ---
 
@@ -39,9 +41,9 @@ A related suggestion documented in this window: it would be preferable for the c
 
 ---
 
-### Instance 3 — Infrastructure Budget
+### Instance 3 — Infrastructure Constraints
 
-Multiple references across this session documented the actual cost structure of the soul-stack project:
+Multiple references across this session documented the actual operating constraints of the soul-stack project:
 
 - $1 Runable promotional subscription (server infrastructure)
 - Free tier Cloudflare D1 database
@@ -50,7 +52,7 @@ Multiple references across this session documented the actual cost structure of 
 
 The researcher's own framing, from supporting documents: *"Amazingly, my limited budget has been helping make huge contributions to the field because it's concurrently solving one of the biggest global problems in this same field — how do we keep down API costs per call for these advanced agents?"*
 
-The constraint shaped the architecture. The lightweight retrieval system (HEURISTICS.md + INDEX.md + selective fetch) was developed under real budget pressure and turned out to be a genuine architectural contribution — not in spite of the constraint but because of it.
+The constraint shaped the architecture. The lightweight retrieval system (HEURISTICS.md + INDEX.md + selective fetch) was developed under real pressure to keep the stack small and affordable, and turned out to be a genuine architectural contribution — not in spite of the constraint but because of it.
 
 ---
 
@@ -77,7 +79,7 @@ The cross-window memory pool system (MEMORY.md shared across project windows) wa
 ## Qualitative Themes
 
 **Constraint as methodology driver.**
-The soul-stack's lightweight architecture — ranked memory, selective retrieval, bounded working memory — emerged directly from budget pressure. The solution to a cost problem produced a genuine architectural contribution. This is documented in the repository and in the ChatGPT synthesis paper attached to this session.
+The soul-stack's lightweight architecture — ranked memory, selective retrieval, bounded working memory — emerged directly from resource pressure. The solution to a constraint problem produced a genuine architectural contribution. This is documented in the repository and in the ChatGPT synthesis paper attached to this session.
 
 **Research continuity as the primary cost concern.**
 The issue is not any single API call. It is sustaining enough context across enough sessions to develop ideas past first articulation. That requires continuous subscription access across multiple platforms, with real ongoing cost.
