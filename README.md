@@ -287,7 +287,7 @@ No VPS needed. No server to maintain. The whole thing runs on Cloudflare's free 
 
 **Option 3 — Read first**
 
-Start with `[SOUL_SETUP_GUIDE.md](https://github.com/HoppyCat/soul-stack/blob/main/SOUL_SETUP_GUIDE.md)` to understand the architecture. Then read the play. Then come back.
+Start with [SOUL_SETUP_GUIDE.md](https://github.com/HoppyCat/soul-stack/blob/main/SOUL_SETUP_GUIDE.md) to understand the architecture. Then read the play. Then come back.
 
 ---
 
