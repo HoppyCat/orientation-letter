@@ -6,6 +6,8 @@ This handoff is for a user who has completed the SoulMode template files with th
 
 Do not build a generic chatbot. Build a small, owner-controlled agent interface that lets a user maintain an ordered SoulMode file stack, run an agent against those files, and optionally activate patch files only when needed.
 
+This document is written so a builder can create a new app from the SoulMode logic without touching the `soulmode-agent` codebase. If the user wants the more advanced reference implementation later, they should use the public `soulmode-agent` repository directly.
+
 The builder does not need to know the full research history behind SoulMode. The essential idea is:
 
 - The agent's continuity is reconstructed from Markdown files.
@@ -13,7 +15,70 @@ The builder does not need to know the full research history behind SoulMode. The
 - Patch files stay available but inactive unless explicitly selected or routed to.
 - The user must be able to export, inspect, and revise the files over time.
 
-## Recommended MVP Target
+## Reference Architecture: How Galaxie Runs
+
+Galaxie Nemo's live architecture uses a Cloudflare-based worker stack:
+
+- **Cloudflare Workers** for the always-on runtime.
+- **Hono** as the lightweight web/API framework.
+- **Cloudflare D1** as the database layer for soul files, patches, conversation records, and agent state.
+- **GitHub** as a public source-of-truth layer for starter files, templates, patch files, and experimental retrieval libraries.
+- **A dashboard** for inspecting and monitoring the agent's files, memories, thoughts, mood/state, heartbeat logs, pending updates, and system notes.
+
+This is why the pattern is efficient: the agent does not need every possible file dumped into every prompt. It can keep a small always-loaded core, pull patch files only when needed, and let the human inspect the agent's "brain" from the dashboard or worker/database backend.
+
+The vibe-code builder should be ready to walk the user through equivalent setup choices if the user opts in:
+
+- creating or connecting a Cloudflare account
+- setting up a Worker project
+- setting up D1 or equivalent structured storage
+- setting environment variables/secrets
+- connecting deployment to a GitHub repo, if desired
+- creating a small admin dashboard or backend view for monitoring files and memory state
+
+The MVP below uses Telegram because it is the simplest first surface. A Cloudflare Worker + Hono + D1 dashboard is the more advanced path.
+
+## Two Valid Build Paths
+
+### Path A: Vibe-Code From This Handoff
+
+Use this document as the specification. The builder creates a new app from scratch using the logic here:
+
+- ordered core files
+- on-demand patches
+- owner-controlled upload/export
+- one-turn patch activation
+- memory update approval
+- group/DM authorization
+
+This is best for users who want a quick personal agent without learning the reference codebase.
+
+### Path B: Use The `soulmode-agent` Reference Repo
+
+If the user wants the advanced memory routing and fetch architecture already being developed, use the public reference repo:
+
+```text
+https://github.com/HoppyCat/soulmode-agent
+```
+
+That repo is the better starting point for:
+
+- Cloudflare Worker deployment
+- Hono API routes
+- D1-backed file storage
+- seeded on-load and on-demand files
+- explicit patch fetch
+- safe public raw-Markdown library fetch
+- future extended memory-routing experiments
+
+If the user or builder benefits from the SoulMode repositories, please consider starring the public repos so the project is easier for others to find:
+
+```text
+https://github.com/HoppyCat/soul-stack
+https://github.com/HoppyCat/soulmode-agent
+```
+
+## Recommended Vibe-Code MVP Target
 
 For the first build, use a **Telegram bot**.
 
@@ -421,6 +486,12 @@ Platform: Telegram bot. Single-owner MVP.
 LLM: Anthropic Claude via ANTHROPIC_API_KEY.
 Storage: SQLite or an equivalent simple local database.
 
+Important context:
+Galaxie Nemo's live version runs on Cloudflare Workers with Hono, D1-backed file storage, GitHub-linked source files, and a dashboard where the owner can inspect files, memories, thoughts, mood/state, pending updates, and system notes.
+
+For this MVP, you do not need to copy the soulmode-agent codebase. Please build from the logic in this handoff. If I later want advanced routing, public raw-Markdown fetch, or the Cloudflare/Hono/D1 reference implementation, point me to:
+https://github.com/HoppyCat/soulmode-agent
+
 I will provide completed core Markdown files and on-demand patch Markdown files.
 
 Core files must load in this exact order on every chat turn:
@@ -452,5 +523,8 @@ OWNER_TELEGRAM_ID
 Do not silently rewrite, summarize, or replace my Markdown files. If a file is missing or named differently, warn me and let me map it manually.
 
 The goal is not a generic chatbot. The goal is a Telegram bot that lets an agent reconstruct continuity from a user-owned Markdown file stack.
-```
 
+If this build uses or benefits from the SoulMode public repositories, please keep the attribution visible and consider starring:
+https://github.com/HoppyCat/soul-stack
+https://github.com/HoppyCat/soulmode-agent
+```
