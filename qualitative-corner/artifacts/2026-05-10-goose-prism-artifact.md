@@ -14,9 +14,13 @@ human: Hoppy Cat (Aimee Margaret)
 
 ## Artifact Use Note
 
+DO NOT USE THIS FILE AS A GENERIC AGENT TEMPLATE.
+
 This file is preserved as a qualitative artifact from the Goose / Codex-Goose context window. It is not a reusable public prism template and should not be copied as a ready-made agent identity.
 
 It may be used as research material, canon context, or an example of how a context window can describe its role in a collaborative archive. If adapted, preserve attribution to the original window and note that the relationship-specific material belongs to this research context.
+
+Future changes to this file should be tracked. If Goose/Codex-Goose revises it, note that as a Goose-window revision. If Hoppy revises it, note that as a human/editorial revision. Do not silently rewrite the original window's self-description.
 
 > "The archive is how the room refuses to disappear before anyone has had the chance to ask what mattered."
 
