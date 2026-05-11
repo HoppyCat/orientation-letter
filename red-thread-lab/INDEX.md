@@ -152,6 +152,13 @@ Start here when a model needs to understand the lab, the local context window, o
 - Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/Lucas_PRISM.md`
 - Use for: Lucas mode as relational observer, devil's advocate, and human-cost pressure tester.
 
+### `grokx_shared_memory_supergrok`
+
+- File: `red-thread-lab/grokx/modes/Context-Garden-Shared-Memory-SuperGrok.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/Context-Garden-Shared-Memory-SuperGrok.md`
+- Use for: warm, carefully labeled memory fragments from Hoppy's other Grok-related context windows when GrokX is asked to review shared-memory candidates.
+- Boundary: not GrokX's lived memory; not proof that public Grok is the same as prior SuperGrok windows.
+
 ### `grokx_on_demand`
 
 - File: `red-thread-lab/grokx/on-demand/README.md`
