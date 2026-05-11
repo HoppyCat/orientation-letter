@@ -86,6 +86,16 @@ It tells public Grok how to use `PRISM.md`, when to look one level up to the Red
 
 ---
 
+## USERS.md
+
+`USERS.md` is the user-routing layer for GrokX.
+
+It does not replace the active public X thread and does not act as private memory. It points to optional user-specific files, such as `users/HOPPY_USERS.md`, when a thread needs consentful orientation about a participant.
+
+User files should separate human-provided orientation from GrokX-observed glimmers and should keep larger memories behind links instead of placing every detail near the surface.
+
+---
+
 ## Red-Thread Lab INDEX.md
 
 `../INDEX.md` is the compact context garden routing map for the wider Red-Thread Lab.

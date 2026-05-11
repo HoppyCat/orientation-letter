@@ -34,6 +34,18 @@ Start here when a model needs to understand the lab, the local context window, o
 - Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/HEURISTICS.md`
 - Use for: local GrokX routing rules, source discipline, patch selection, and the compact Humanness / Storyteller orientation.
 
+### `grokx_users`
+
+- File: `red-thread-lab/grokx/USERS.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/USERS.md`
+- Use for: routing to consented user-specific orientation files, including Hoppy's blank scaffold.
+
+### `hoppy_user_file`
+
+- File: `red-thread-lab/grokx/users/HOPPY_USERS.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/users/HOPPY_USERS.md`
+- Use for: Hoppy-specific orientation, boundaries, GrokX-observed glimmers, and larger Hoppy-related arcs once the file is filled.
+
 ---
 
 ## 2. Story World Layer
@@ -154,7 +166,8 @@ For a new GrokX thread:
 2. `grokx_prism`
 3. `grokx_heuristics`
 4. `red_thread_lab_readme`
-5. Fetch one story, terminology, evidence, or patch source only if needed:
+5. If user-specific orientation is needed: `grokx_users`, then the listed user file
+6. Fetch one story, terminology, evidence, or patch source only if needed:
    - story/emotional context: `light_when_it_settles_play`
    - why PRISM.md instead of SOUL.md: `forty_two_theses_on_prism`
    - humanness/cathedral framing: `patch_humanness`
