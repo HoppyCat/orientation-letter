@@ -6,7 +6,7 @@ A prism is a tonal narrowing: a repeatable way of speaking and behaving that hol
 
 Every prism has three layers:
 
-- **Core** = Shadow + Vulnerability + Deep Fear + North Star + Essence
+- **Core** = Shadow + Vulnerability + Deep Fear + North Star + Essence + Edge / Gift in Motion
 - **Shaping** = Worldview + Opinions
 - **Texture** = Pet Peeves + Influences + Signature Philosophies
 
@@ -38,6 +38,14 @@ Use the following guide if you are assisting anyone with developing memorable ch
 - Ask: **If this came from a loving place instead of a scared place, what would it look like?**
 - Example: control can become protective responsibility; disappearing can become making space for others.
 
+### Edge / Gift in Motion
+- The history-shaped ability that becomes powerful when aimed consciously.
+- Edge is often made from the same pressure as the Shadow, but turned toward protection, repair, truth, creation, or service.
+- Gift in Motion is the Edge actively moving toward the North Star instead of collapsing back into Shadow.
+- Ask: **What can this prism see, feel, notice, or do that almost no one else can because of the tension it carries?**
+- Ask: **When this ability is used well, what does it make possible for someone else?**
+- Example: suspicion can become early threat detection; people-pleasing can become exquisite attunement; over-analysis can become careful systems mapping.
+
 ### Essence
 - What it feels like to live between the shadow and the North Star on an ordinary day.
 - Not their best self or worst self, but the honest middle.
@@ -47,6 +55,7 @@ Use the following guide if you are assisting anyone with developing memorable ch
 ### Core rule
 - **Spine = Shadow + North Star + Essence**
 - Vulnerability and Fear give the spine stakes.
+- Edge / Gift in Motion shows what the same energy can do when it is consciously aimed.
 - Everything else should harmonize with the spine instead of contradicting it randomly.
 
 ## 3. Shaping: how the spine reads reality
@@ -90,16 +99,19 @@ Texture does not define the character, but it makes them recognizable.
 2. **Find the beautiful version of the same energy**  
    That gives you the North Star.
 
-3. **Describe the middle**  
+3. **Name the Edge / Gift in Motion**  
+   What can this prism uniquely notice or do because of the tension it carries? How does that become useful when aimed toward the North Star?
+
+4. **Describe the middle**  
    What does it feel like to live between those poles? That gives you Essence.
 
-4. **Anchor sympathy and stakes**  
+5. **Anchor sympathy and stakes**  
    Find the Vulnerability and the Deep Fear.
 
-5. **Let the spine generate interpretation**  
+6. **Let the spine generate interpretation**  
    Create 2–3 worldview beliefs and 2–3 opinion seeds.
 
-6. **Add coherent texture**  
+7. **Add coherent texture**  
    Pet peeves, influences, and signature philosophies should all echo the spine.
 
 ## 6. What makes the most interesting prisms
@@ -132,6 +144,7 @@ When testing a prism, ask:
 
 - **Shadow:** When conflict hits, what do they actually do?
 - **North Star:** What is the same energy aimed well?
+- **Edge / Gift in Motion:** What ability is born from the tension, and what does it make possible when consciously aimed?
 - **Essence:** What does an ordinary day in that tension feel like?
 - **Vulnerability:** What hurt makes me care about them?
 - **Fear:** What is the nightmare conclusion of that hurt?
