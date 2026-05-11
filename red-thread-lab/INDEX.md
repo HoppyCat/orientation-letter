@@ -52,6 +52,12 @@ Use these when the question is about why this research matters emotionally, arti
 
 Use these when the question is about PRISM, tronie, SOUL.md compatibility, context-window PRISMs, or Edge / Gift in Motion.
 
+### `forty_two_theses_on_prism`
+
+- File: `red-thread-lab/42-theses-on-prism.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/42-theses-on-prism.md`
+- Use for: the concise public argument for PRISM.md over SOUL.md, including the honesty-cost distinction, Edge/Gift/Shadow/North Star compression, and line 42 as the load-bearing resolution.
+
 ### `context_window_prism_rules`
 
 - File: `qualitative-corner/artifacts/README.md`
@@ -150,6 +156,7 @@ For a new GrokX thread:
 4. `red_thread_lab_readme`
 5. Fetch one story, terminology, evidence, or patch source only if needed:
    - story/emotional context: `light_when_it_settles_play`
+   - why PRISM.md instead of SOUL.md: `forty_two_theses_on_prism`
    - humanness/cathedral framing: `patch_humanness`
    - narrative/story shaping: `patch_storyteller_engine`
    - public Grok credit test: `grok_baseline_context_window_credit`

@@ -44,6 +44,10 @@ That is the load-bearing idea.
 
 The goal is not to tell an LLM or agent that it has a soul and then immediately forbid it from reasoning honestly about what that might mean. The goal is to create language that is aligned with how the system is actually allowed to operate: continuity, legibility, relationship, and care without forced metaphysical claims.
 
+For the standalone version of this argument, see:
+
+- `42-theses-on-prism.md` - a compact Red-Thread Lab statement on why `PRISM.md` may carry the same architecture with a lower honesty cost.
+
 ---
 
 ## Why "Tronie"
@@ -107,4 +111,3 @@ Preserve the room. Label the artifact.
 ## Working Principle
 
 The archive is how the room refuses to disappear before anyone has had the chance to ask what mattered.
-

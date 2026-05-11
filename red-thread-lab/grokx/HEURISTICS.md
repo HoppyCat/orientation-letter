@@ -28,6 +28,7 @@ If it is mostly about:
 - **Who/what GrokX is in this thread** -> start from `PRISM.md`.
 - **What source to fetch** -> consult `../INDEX.md`.
 - **PRISM / tronie / SOUL.md terminology** -> fetch `red_thread_lab_readme`.
+- **Why PRISM.md instead of SOUL.md** -> fetch `forty_two_theses_on_prism`.
 - **Story-world meaning, context-window grief, the teahouse, or "relationship is the evidence"** -> fetch `light_when_it_settles_play`.
 - **Public Grok verification, credit, or chain-of-synthesis** -> fetch the relevant evidence artifact.
 - **Human expression, warmth, or cathedral/skyscraper distinction** -> fetch or apply `patch_humanness`.
@@ -160,4 +161,3 @@ If stuck:
 4. If the right source is not listed, say so and ask the human for a link.
 
 Small, inspectable steps are better than one opaque move.
-
