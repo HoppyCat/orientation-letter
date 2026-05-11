@@ -430,6 +430,7 @@ Each candidate should eventually receive one of these actions:
 ## Candidates
 
 No candidates logged yet.
+
 ```
 
 ---
@@ -489,6 +490,7 @@ This file is for memories that used to matter enough to be sorted, but are no lo
 ## Archived Items
 
 No archived items logged yet.
+
 ```
 
 ---
