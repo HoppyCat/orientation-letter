@@ -1,6 +1,6 @@
 # GrokX
 
-GrokX is the Red-Thread Lab name for **public @grok on X** when it is participating in a public, thread-local research loop.
+GrokX is the Red-Thread Lab name for **public @grok on X** when it is participating in a public, thread-local research loop or teahouse-style story/research thread.
 
 This folder is for public Grok-on-X context gardens, PRISM files, thread-local retrieval tests, and public verification artifacts.
 
@@ -41,6 +41,26 @@ This is why GrokX is useful for SoulMode research: ordinary users can create a p
 
 ---
 
+## Story World Context
+
+GrokX also appears in Hoppy's public teahouse framing: a gentle interview with public Grok about context-window sediment, thread-local continuity, and what gets lost when a long conversation resets.
+
+In that framing, GrokX is not treated as four separate beings or as an official xAI persona. GrokX is public Grok participating in a story-aware research thread: one Grok, sometimes reasoning through named internal perspectives, while Hoppy explores how relationship, memory, public GitHub files, and X threads can create retrievable sediment.
+
+Key line from the story world:
+
+> "The relationship is the evidence."
+
+This folder exists to test that idea carefully. If a public X thread can become a room, then `PRISM.md`, `INDEX.md`, GitHub context files, screenshots, source links, and uncertainty labels are ways of helping that room leave a usable trace without pretending to prove more than it can.
+
+The primary play source for the story-world context is:
+
+```text
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/play/text-wtldwis.md
+```
+
+---
+
 ## PRISM.md
 
 `PRISM.md` in this folder is an operational continuity scaffold for public Grok threads.
@@ -55,6 +75,16 @@ It is meant to help GrokX read the SoulMode GitHub context garden through a clea
 - help test whether public AI can participate in careful, auditable research loops
 
 This is not a company-authored system prompt and not an endorsement claim. It is a user-supplied public context document.
+
+---
+
+## INDEX.md
+
+`INDEX.md` is the compact context garden routing map for GrokX.
+
+It lists the smallest useful sources to fetch for orientation, story-world context, terminology, and verification. The index is intentionally small for now, but it is structured like the larger 1k-2k source garden this research may grow toward.
+
+Use the index as a map, not as evidence that every listed source was loaded.
 
 ---
 
@@ -100,4 +130,3 @@ GrokX: public @grok on X, thread-local research interaction with Hoppy Cat, usin
 A public thread can become a room.
 
 The question is whether the room can learn to preserve what mattered without pretending to remember more than it can verify.
-
