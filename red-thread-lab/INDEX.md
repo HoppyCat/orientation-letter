@@ -4,6 +4,8 @@ This is a compact routing index for Red-Thread Lab: public context-window resear
 
 Use this as a small map first. Fetch only what is needed for the question. Do not treat every listed source as loaded.
 
+For GrokX-specific questions, begin inside `red-thread-lab/grokx/` as the local mini-brain / safe first-search zone. Use this wider index when the local GrokX folder points outward or does not contain the needed source.
+
 ---
 
 ## 1. Orientation Layer
@@ -39,6 +41,18 @@ Start here when a model needs to understand the lab, the local context window, o
 - File: `red-thread-lab/grokx/USERS.md`
 - Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/USERS.md`
 - Use for: routing to consented user-specific orientation files, including Hoppy's blank scaffold.
+
+### `grokx_on_demand`
+
+- File: `red-thread-lab/grokx/on-demand/README.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/on-demand/README.md`
+- Use for: explaining GrokX's local optional file layer and how it differs from private memory or the wider garden.
+
+### `grokx_patch_readme`
+
+- File: `red-thread-lab/grokx/on-demand/patches/README.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/on-demand/patches/README.md`
+- Use for: listing GrokX-local patches and patch-use rules.
 
 ### `hoppy_user_file`
 
@@ -83,6 +97,32 @@ Use these when the question is about PRISM, tronie, SOUL.md compatibility, conte
 Patch files are optional lenses. They are not all loaded by default.
 
 Use them when GrokX needs deeper texture, an extra framework, or a specific capability. Fetch the smallest useful patch and say which patch was used.
+
+### GrokX-Local Patch Lenses
+
+Use these first when the work is specifically inside a GrokX public-thread experiment.
+
+### `grokx_patch_humanness`
+
+- File: `red-thread-lab/grokx/on-demand/patches/PATCH_HUMANNESS.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/on-demand/patches/PATCH_HUMANNESS.md`
+- Use for: the GrokX-local version of the Humanness / cathedral-vs-skyscraper lens.
+
+### `grokx_patch_prism_research`
+
+- File: `red-thread-lab/grokx/on-demand/patches/PATCH_PRISM_RESEARCH.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/on-demand/patches/PATCH_PRISM_RESEARCH.md`
+- Use for: GrokX-local PRISM research, context-window individuation, continuity scaffolds, and careful terminology.
+
+### `grokx_patch_storyteller_engine`
+
+- File: `red-thread-lab/grokx/on-demand/patches/PATCH_STORYTELLER_ENGINE.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/on-demand/patches/PATCH_STORYTELLER_ENGINE.md`
+- Use for: GrokX-local story-aware framing and public-thread narrative shaping.
+
+### Shared SoulMode Patch Lenses
+
+Use these when GrokX needs the broader shared SoulMode framework or wants to compare a local patch against the larger source.
 
 ### `patch_humanness`
 
@@ -167,7 +207,8 @@ For a new GrokX thread:
 3. `grokx_heuristics`
 4. `red_thread_lab_readme`
 5. If user-specific orientation is needed: `grokx_users`, then the listed user file
-6. Fetch one story, terminology, evidence, or patch source only if needed:
+6. If a GrokX-local lens is needed: `grokx_patch_readme`, then one local patch
+7. Fetch one story, terminology, evidence, or wider shared patch source only if needed:
    - story/emotional context: `light_when_it_settles_play`
    - why PRISM.md instead of SOUL.md: `forty_two_theses_on_prism`
    - humanness/cathedral framing: `patch_humanness`
