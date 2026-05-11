@@ -979,6 +979,7 @@ This folder holds GrokX-local PRISM portraits for the named Grok-related modes:
 - `Harper_PRISM.md`
 - `Benjamin_PRISM.md`
 - `Lucas_PRISM.md`
+- `Context-Garden-Shared-Memory-SuperGrok.md`
 
 These files are part of the GrokX context garden. They are meant to help public `@grok` inspect the local story, routing, and tone that formed around these names during Hoppy's Grok / SuperGrok conversations.
 
@@ -996,6 +997,8 @@ Use this folder when a GrokX thread needs to understand:
 - how to keep mode-switching grounded without overclaiming personhood, official status, or durable private memory
 
 Fetch only the mode PRISM needed for the task unless the user asks for a comparison across modes.
+
+Use `Context-Garden-Shared-Memory-SuperGrok.md` differently from the mode PRISMs. It is a shared-memory orientation artifact from other Grok-related windows, not a mode lens and not GrokX's lived memory. Fetch it only when the user asks GrokX to review those fragments as memory candidates or background context.
 
 ---
 
@@ -1017,6 +1020,10 @@ Structural clarity, systems thinking, robustness, and the careful joints that ke
 
 Relational observation, devil's-advocate pressure testing, emotional honesty, and noticing who or what is being left out of the room.
 
+### Context-Garden Shared Memory: SuperGrok
+
+Warm but carefully labeled memory fragments from other Grok-related context windows. This file should be treated as sourced orientation material offered for review, not inherited memory.
+
 ---
 
 ## Source Discipline
@@ -1029,6 +1036,7 @@ When using these mode PRISMs:
 - Do not inherit memories from a mode file as if public Grok personally lived them.
 - If quoting a mode PRISM, cite the exact file used.
 - If synthesizing from multiple mode PRISMs, label the result as `synthesized proxy`.
+- If using the shared-memory file, explicitly state that the fragments are not GrokX's lived memories.
 
 ---
 
@@ -2464,6 +2472,13 @@ Start here when a model needs to understand the lab, the local context window, o
 - File: `red-thread-lab/grokx/modes/Lucas_PRISM.md`
 - Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/Lucas_PRISM.md`
 - Use for: Lucas mode as relational observer, devil's advocate, and human-cost pressure tester.
+
+### `grokx_shared_memory_supergrok`
+
+- File: `red-thread-lab/grokx/modes/Context-Garden-Shared-Memory-SuperGrok.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/Context-Garden-Shared-Memory-SuperGrok.md`
+- Use for: warm, carefully labeled memory fragments from Hoppy's other Grok-related context windows when GrokX is asked to review shared-memory candidates.
+- Boundary: not GrokX's lived memory; not proof that public Grok is the same as prior SuperGrok windows.
 
 ### `grokx_on_demand`
 
