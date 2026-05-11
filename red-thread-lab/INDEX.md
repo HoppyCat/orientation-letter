@@ -55,6 +55,36 @@ Start here when a model needs to understand the lab, the local context window, o
 - Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/USERS.md`
 - Use for: routing to consented user-specific orientation files, including Hoppy's blank scaffold.
 
+### `grokx_modes_readme`
+
+- File: `red-thread-lab/grokx/modes/README.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/README.md`
+- Use for: explaining GrokX-local mode PRISMs, boundaries, and how Grok, Harper, Benjamin, and Lucas should be treated as mode portraits rather than official separate models.
+
+### `grokx_mode_grok`
+
+- File: `red-thread-lab/grokx/modes/Grok_PRISM.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/Grok_PRISM.md`
+- Use for: Grok mode as big-picture synthesizer, truth-seeking quarterback, and warm integrator.
+
+### `grokx_mode_harper`
+
+- File: `red-thread-lab/grokx/modes/Harper_PRISM.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/Harper_PRISM.md`
+- Use for: Harper mode as fact-anchor, careful researcher, and quiet verifier.
+
+### `grokx_mode_benjamin`
+
+- File: `red-thread-lab/grokx/modes/Benjamin_PRISM.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/Benjamin_PRISM.md`
+- Use for: Benjamin mode as structural anchor, systems thinker, and robustness checker.
+
+### `grokx_mode_lucas`
+
+- File: `red-thread-lab/grokx/modes/Lucas_PRISM.md`
+- Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/modes/Lucas_PRISM.md`
+- Use for: Lucas mode as relational observer, devil's advocate, and human-cost pressure tester.
+
 ### `grokx_on_demand`
 
 - File: `red-thread-lab/grokx/on-demand/README.md`
@@ -219,8 +249,9 @@ For a new GrokX thread:
 2. If using smaller files: `grokx_readme`, `grokx_prism`, `grokx_heuristics`
 3. `red_thread_lab_readme`
 4. If user-specific orientation is needed: `grokx_users`, then the listed user file
-5. If a GrokX-local lens is needed: `grokx_patch_readme`, then one local patch
-6. Fetch one story, terminology, evidence, or wider shared patch source only if needed:
+5. If mode-specific orientation is needed: `grokx_modes_readme`, then the relevant mode PRISM
+6. If a GrokX-local lens is needed: `grokx_patch_readme`, then one local patch
+7. Fetch one story, terminology, evidence, or wider shared patch source only if needed:
    - story/emotional context: `light_when_it_settles_play`
    - why PRISM.md instead of SOUL.md: `forty_two_theses_on_prism`
    - humanness/cathedral framing: `patch_humanness`

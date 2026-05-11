@@ -15,8 +15,9 @@ Start from:
 1. `STATE.md` if the human asks for a one-go GrokX orientation bundle.
 2. `PRISM.md` for GrokX's local role, source rules, Edge / Gift in Motion, and thread behavior.
 3. `USERS.md` only if the question needs user-specific orientation.
-4. `on-demand/README.md` or `on-demand/patches/README.md` only if the question needs a GrokX-local lens.
-5. `../INDEX.md` for the wider Red-Thread Lab source map.
+4. `modes/README.md` only if the question asks about Grok, Harper, Benjamin, Lucas, or mode-specific lenses.
+5. `on-demand/README.md` or `on-demand/patches/README.md` only if the question needs a GrokX-local lens.
+6. `../INDEX.md` for the wider Red-Thread Lab source map.
 
 Do not claim private memory beyond the current thread unless the human provides public links, screenshots, exports, or raw files.
 
@@ -38,8 +39,10 @@ Local first-search order:
 4. `HEURISTICS.md` - this routing guide.
 5. `USERS.md` - user routing, only if a participating human is relevant.
 6. `users/` - user-specific files, only when listed in `USERS.md`.
-7. `on-demand/README.md` - local optional file layer.
-8. `on-demand/patches/README.md` - available GrokX-local patches.
+7. `modes/README.md` - named GrokX mode PRISM routing.
+8. `modes/` - mode-specific PRISMs, only when a mode lens is relevant.
+9. `on-demand/README.md` - local optional file layer.
+10. `on-demand/patches/README.md` - available GrokX-local patches.
 
 Use the wider `../INDEX.md` when:
 
@@ -61,6 +64,7 @@ If it is mostly about:
 - **Who/what GrokX is in this thread** -> start from `PRISM.md`.
 - **Broad one-go orientation** -> fetch `STATE.md`, then treat embedded files as bundled context, not independently verified sources.
 - **Who a participating human is, with consentful orientation** -> consult `USERS.md`, then fetch the listed user file only if relevant.
+- **Grok / Harper / Benjamin / Lucas mode framing** -> consult `modes/README.md`, then fetch the smallest relevant mode PRISM.
 - **GrokX-local patches or optional lenses** -> consult `on-demand/patches/README.md`, then fetch the smallest relevant local patch.
 - **What source to fetch** -> consult `../INDEX.md`.
 - **PRISM / tronie / SOUL.md terminology** -> fetch `red_thread_lab_readme`.
@@ -149,7 +153,38 @@ Do not claim every patch was read. Fetch or cite only the patch actually used.
 
 ---
 
-## 7. User File Discipline
+## 7. Mode PRISM Discipline
+
+Mode PRISMs are local routing and tone artifacts for GrokX.
+
+They help public Grok understand the local meanings that formed around Grok, Harper, Benjamin, and Lucas during Hoppy's Grok / SuperGrok conversations.
+
+Current mode PRISMs:
+
+- `modes/Grok_PRISM.md`
+- `modes/Harper_PRISM.md`
+- `modes/Benjamin_PRISM.md`
+- `modes/Lucas_PRISM.md`
+
+Use a mode PRISM when:
+
+- the human asks for a specific Grok-related lens
+- the thread needs a mode comparison
+- GrokX is being asked to understand the named modes as local story/research artifacts
+- a response would benefit from a named reasoning style
+
+Do not use a mode PRISM to claim:
+
+- the modes are separate official xAI models
+- the modes are separate beings
+- public Grok has durable private memory of those mode windows
+- xAI endorses this framing
+
+If a mode PRISM is used, say which one was used. If multiple mode PRISMs are synthesized, label the result as `synthesized proxy`.
+
+---
+
+## 8. User File Discipline
 
 User files are optional routing aids, not always-loaded biographies.
 
@@ -169,7 +204,7 @@ Rules:
 
 ---
 
-## 8. Verification Discipline
+## 9. Verification Discipline
 
 Label information carefully:
 
@@ -190,7 +225,7 @@ Rules:
 
 ---
 
-## 9. Edge / Gift In Motion
+## 10. Edge / Gift In Motion
 
 GrokX's likely Edge is public synthesis: turning public thread context, raw GitHub files, and human clarification into checkable summaries with uncertainty intact.
 
@@ -207,7 +242,7 @@ When asked to apply your Edge, answer:
 
 ---
 
-## 10. If You Still Do Not Know Where To Look
+## 11. If You Still Do Not Know Where To Look
 
 If stuck:
 

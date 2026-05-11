@@ -86,6 +86,23 @@ It tells public Grok how to use `PRISM.md`, when to look one level up to the Red
 
 ---
 
+## Modes
+
+`modes/` contains GrokX-local PRISM portraits for Grok, Harper, Benjamin, and Lucas.
+
+These are reasoning-mode artifacts, not claims that the names are separate official models, separate beings, or xAI-endorsed personas. They help public GrokX inspect the local mode language that emerged from Hoppy's Grok / SuperGrok conversations.
+
+Use them when a thread asks for:
+
+- a mode-specific lens
+- a comparison between Grok, Harper, Benjamin, and Lucas
+- a careful explanation of the "modes, not separate models" distinction
+- a response shaped by a specific mode portrait
+
+Start with `modes/README.md`, then fetch the smallest relevant mode PRISM.
+
+---
+
 ## STATE.md
 
 `STATE.md` is a generated one-go context bundle for GrokX.

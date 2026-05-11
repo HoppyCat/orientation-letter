@@ -7,6 +7,11 @@ red-thread-lab/grokx/PRISM.md
 red-thread-lab/grokx/HEURISTICS.md
 red-thread-lab/grokx/USERS.md
 red-thread-lab/grokx/users/HOPPY_USERS.md
+red-thread-lab/grokx/modes/README.md
+red-thread-lab/grokx/modes/Grok_PRISM.md
+red-thread-lab/grokx/modes/Harper_PRISM.md
+red-thread-lab/grokx/modes/Benjamin_PRISM.md
+red-thread-lab/grokx/modes/Lucas_PRISM.md
 red-thread-lab/grokx/on-demand/README.md
 red-thread-lab/grokx/on-demand/patches/README.md
 red-thread-lab/grokx/on-demand/patches/PATCH_HUMANNESS.md
