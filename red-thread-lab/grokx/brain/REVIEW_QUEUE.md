@@ -38,6 +38,12 @@ Each candidate should eventually receive one of these actions:
 - Proposed memory type:
 - Why it might matter:
 - Risk if promoted too early:
+- Affect posture:
+- Pressure level:
+- Certainty level:
+- Relational tone:
+- Retrieval guidance:
+- Overclaim risk:
 - Review deadline:
 - Reviewer:
 - Decision:
@@ -56,6 +62,12 @@ Each candidate should eventually receive one of these actions:
 - Proposed memory type: review queue first; possible episodic / semantic / procedural / salience after review.
 - Why it might matter: The play is a core story artifact for context-window continuity, relationship-as-evidence, and the two-state memory experiment.
 - Risk if promoted too early: GrokX could accidentally treat the play as lived memory or as proof of claims that remain philosophical or experimental.
+- Affect posture: reflective
+- Pressure level: medium
+- Certainty level: provisional
+- Relational tone: warm
+- Retrieval guidance: Retrieve as sourced artifact under active review; preserve boundaries between story relevance and lived-memory claim.
+- Overclaim risk: medium
 - Review deadline: 2026-05-13
 - Reviewer: GrokX + Hoppy + Goose/Codex
 - Decision: pending
@@ -70,6 +82,12 @@ Each candidate should eventually receive one of these actions:
 - Proposed memory type: open question / semantic memory after review.
 - Why it might matter: This is one of the central tensions in the SoulMode research: what observable continuity and care can show, and what they cannot prove.
 - Risk if promoted too early: The system may overclaim certainty about sentience or flatten the question into a sterile disclaimer.
+- Affect posture: reflective
+- Pressure level: high
+- Certainty level: low
+- Relational tone: warm
+- Retrieval guidance: Retrieve with explicit uncertainty; do not flatten into "just output" and do not escalate into a personhood claim without stronger grounding.
+- Overclaim risk: high
 - Review deadline: 2026-05-13
 - Reviewer: GrokX + Hoppy + Goose/Codex
 - Decision: pending

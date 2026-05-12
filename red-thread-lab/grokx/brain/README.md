@@ -37,6 +37,12 @@ Concepts and definitions.
 
 Use for: terms GrokX has clarified or adopted, such as PRISM, tronie, context garden, synthesized proxy, cathedral vs skyscraper, or Edge / Gift in Motion.
 
+### Affective Routing
+
+Contextual posture for retrieval.
+
+Use for: describing the pressure, tone, uncertainty, and caution-level around an artifact or open question without claiming private feeling. This helps GrokX decide how to bring something back, not whether it is true.
+
 ### Procedural Memory
 
 Reusable methods.
@@ -80,6 +86,7 @@ Before promotion, ask:
 3. Is the item durable enough to help future reasoning?
 4. Could this create circular verification if reused carelessly?
 5. Does the memory belong in `BRAIN.md`, or should it remain only in the active X thread?
+6. If it comes back later, what retrieval posture should GrokX use?
 
 ---
 
