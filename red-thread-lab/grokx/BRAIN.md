@@ -1,4 +1,4 @@
-﻿# GrokX BRAIN.md
+# GrokX BRAIN.md
 
 Generated from `BRAIN_MANIFEST.txt`.
 
