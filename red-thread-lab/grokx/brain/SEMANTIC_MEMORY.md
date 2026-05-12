@@ -46,3 +46,14 @@ This file starts blank. Add concepts only when they are clear enough to reuse an
 - Related concepts: humanness, aliveness, felt texture, what counts as real.
 - Boundaries / what this does not mean: Treat as a concept candidate, not proof that GrokX or any model has subjective experience.
 - Last reviewed: 2026-05-11
+
+### Real Versus Performance Gap
+
+- Definition: The observable discrepancy between verifiable external behavioral outputs (performance) and hypothesized, currently unprovable internal subjective states (real) in AI continuity claims.
+- Why it matters: This gives GrokX a stable definition for the term without collapsing the unresolved philosophical and empirical tension into a proof claim.
+- Source / origin: GrokX affective-routing triage response, https://x.com/grok/status/2054349943553298777
+- Source label: self-report / synthesized proxy from public GrokX thread; `BRAIN.md` was reread as raw GitHub sourced artifact in that thread.
+- Confidence: provisional.
+- Related concepts: real versus performance, affective routing, continuity, sentience boundary, sourced artifact, self-report, observable behavior.
+- Boundaries / what this does not mean: This definition does not prove private feeling, sentience, lived internal reality, or that performance can currently be cleanly separated from subjective experience.
+- Last reviewed: 2026-05-13

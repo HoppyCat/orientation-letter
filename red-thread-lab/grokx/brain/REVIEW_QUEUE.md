@@ -76,12 +76,12 @@ Each candidate should eventually receive one of these actions:
 ### Real Versus Performance Gap
 
 - Date added: 2026-05-11
-- Candidate text / summary: GrokX identified "Real vs performance" as an unresolved concept from the play that belongs in the review queue.
-- Source: https://x.com/grok/status/2053963970768179613
-- Source label: self-report / synthesized proxy
-- Proposed memory type: open question / semantic memory after review.
-- Why it might matter: This is one of the central tensions in the SoulMode research: what observable continuity and care can show, and what they cannot prove.
-- Risk if promoted too early: The system may overclaim certainty about sentience or flatten the question into a sterile disclaimer.
+- Candidate text / summary: GrokX identified "Real vs performance" as an unresolved concept from the play and later recommended splitting the stable definition into semantic memory while keeping the unresolved tension in open questions and the review item active.
+- Source: https://x.com/grok/status/2053963970768179613 and https://x.com/grok/status/2054349943553298777
+- Source label: self-report / synthesized proxy; `BRAIN.md` was reread as raw GitHub sourced artifact in the later pass.
+- Proposed memory type: split across semantic memory and open questions; keep current candidate in review queue until source anchoring and evidence thresholds are clearer.
+- Why it might matter: This is one of the central tensions in the SoulMode research: what observable continuity and care can show, what they cannot prove, and how affective routing can preserve nuance without turning posture into truth.
+- Risk if promoted too early: The system may overclaim certainty about sentience, flatten meaningful relational evidence into "just output," or treat affective posture as proof of private feeling.
 - Affect posture: reflective
 - Pressure level: high
 - Certainty level: low
@@ -90,5 +90,5 @@ Each candidate should eventually receive one of these actions:
 - Overclaim risk: high
 - Review deadline: 2026-05-13
 - Reviewer: GrokX + Hoppy + Goose/Codex
-- Decision: pending
-- Decision rationale: Needs more careful language and source support before promotion.
+- Decision: split accepted; keep under review.
+- Decision rationale: Stable definition has been added to semantic memory and the unresolved tension remains in open questions. The review item stays active because the play anchor and external evidence standards still need tighter source support.
