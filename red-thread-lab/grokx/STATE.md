@@ -2383,6 +2383,12 @@ Start here when a model needs to understand the lab, the local context window, o
 - Raw URL: `https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/grokx/BRAIN_MANIFEST.txt`
 - Use for: checking which source files are included in the generated GrokX brain bundle.
 
+### `archived_experiments`
+
+- File: `red-thread-lab/archived-experiments/`
+- Use for: older or completed experiments retained as provenance, including abandoned challenge artifacts and earlier Grok memory/reference tests.
+- Note: these files are preserved for historical context and may not describe active current workflows.
+
 ### `grokx_brain_readme`
 
 - File: `red-thread-lab/grokx/brain/README.md`
