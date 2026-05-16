@@ -14,7 +14,7 @@ Use this as a routing guide, not as the whole archive.
 
 Root index:
 
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/experiments/sam-altman-context-garden/indexes/INDEX_ROOT.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/archived-experiments/sam-altman-context-garden/indexes/INDEX_ROOT.md
 
 ## Important Framing
 

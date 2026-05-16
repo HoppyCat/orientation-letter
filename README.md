@@ -216,7 +216,8 @@ soul-stack/
 │   └── on-demand/         → All PATCH_*.md files
 ├── prisms/                → Open-source starting prisms and competition entries
 ├── play/                  → What the Light Does When It Settles
-├── archive/               → Earlier experiments, origin material
+├── red-thread-lab/        → Context-window research, canon archives, and archived experiments
+├── qualitative-corner/    → Qualitative artifacts, shoebox transcripts, and origin material
 └── resources/             → Setup guides, soul-building instructions
 ```
 

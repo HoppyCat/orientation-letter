@@ -11,7 +11,7 @@ needs:
 - screenshot of Claude Prism Window GitHub retrieval confirmation
 - screenshot of any temporary ChatGPT Deep Research failure/glitch if found
 - X links/screenshots for the continuing Grok memory thread
-- later comparison against `experiments/grok/5-9-2026-Grok_X_Memory.md`
+- later comparison against `red-thread-lab/archived-experiments/grok/5-9-2026-Grok_X_Memory.md`
 
 ## Scope Note
 
@@ -20,7 +20,7 @@ This archive preserves the recent Goose/Codex arc after the first possible Goose
 - Claude verifying the newly archived Prism Window canon from a raw GitHub URL
 - the resulting method upgrade: rapid archival anchoring plus live retrieval confirmation
 - the public X Grok memory test evolving from active rehearsal into a memory-drift / accumulated-detail test
-- the use of `experiments/grok/5-9-2026-Grok_X_Memory.md` as a reference artifact for other windows
+- the use of `red-thread-lab/archived-experiments/grok/5-9-2026-Grok_X_Memory.md` as a reference artifact for other windows
 - Hoppy's later update that the ChatGPT Deep Research attribution report reappeared in her account, suggesting the earlier "Research stopped" state was likely a temporary glitch rather than permanent artifact loss
 
 ## Deep Research Artifact Status Update
@@ -208,7 +208,7 @@ Claude’s contribution here is genuinely strong: “anchor as thread, not check
 
 Okay! To make things easier I made a .md file on the GitHub that we can reference during this test. Here is the current file:
 
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/experiments/grok/5-9-2026-Grok_X_Memory.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/archived-experiments/grok/5-9-2026-Grok_X_Memory.md
 
 and Grok's response! What do you think should be next? 👀
 

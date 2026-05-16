@@ -13,7 +13,7 @@ The purpose is to show a credible, inspectable example of a project that emerged
 Give an LLM the raw `HEURISTICS.md` link and ask it to follow the smallest useful retrieval path:
 
 ```text
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/experiments/sam-altman-context-garden/HEURISTICS.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/archived-experiments/sam-altman-context-garden/HEURISTICS.md
 ```
 
 Ask it to inspect the evidence and draft a reply that is:

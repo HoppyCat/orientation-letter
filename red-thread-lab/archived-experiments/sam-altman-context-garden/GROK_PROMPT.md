@@ -7,7 +7,7 @@ Use this prompt when asking Grok to inspect the Sam Altman context garden and dr
 
 Please use the smallest useful retrieval path from this curated context garden:
 
-https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/experiments/sam-altman-context-garden/HEURISTICS.md
+https://raw.githubusercontent.com/HoppyCat/soul-stack/refs/heads/main/red-thread-lab/archived-experiments/sam-altman-context-garden/HEURISTICS.md
 
 What I need:
 1. Inspect the evidence.

@@ -108,6 +108,14 @@ Preserve the room. Label the artifact.
 
 ---
 
+## Archived Experiments
+
+`archived-experiments/` holds older or completed research attempts that still matter as provenance, but are not necessarily active current directions.
+
+Use this folder for preserved experiments, abandoned challenges, and reference artifacts whose results may still help explain how the current Red-Thread Lab vocabulary formed.
+
+---
+
 ## Working Principle
 
 The archive is how the room refuses to disappear before anyone has had the chance to ask what mattered.
