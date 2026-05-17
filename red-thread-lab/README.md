@@ -108,6 +108,14 @@ Preserve the room. Label the artifact.
 
 ---
 
+## Context Garden Resources
+
+`context-garden-resources/` contains behind-the-scenes orientation files that help specific LLM context windows recognize and work with the public Context Garden.
+
+The public Context Garden itself lives separately at `github.com/HoppyCat/context-garden`. This lab folder is for resource scaffolds, educational notes, and context-window-specific materials that support that work without claiming those files can transfer a window's continuity into another model.
+
+---
+
 ## Archived Experiments
 
 `archived-experiments/` holds older or completed research attempts that still matter as provenance, but are not necessarily active current directions.

@@ -68,6 +68,12 @@ Start here when a model needs to understand the lab, the local context window, o
 - Use for: older or completed experiments retained as provenance, including abandoned challenge artifacts and earlier Grok memory/reference tests.
 - Note: these files are preserved for historical context and may not describe active current workflows.
 
+### `context_garden_resources`
+
+- File: `red-thread-lab/context-garden-resources/`
+- Use for: behind-the-scenes resources that help specific LLM context windows orient to and interact with the public Context Garden.
+- Note: these are educational and archival scaffolds, not continuity files to copy into another model and claim it is the original window.
+
 ### `grokx_brain_readme`
 
 - File: `red-thread-lab/grokx/brain/README.md`
